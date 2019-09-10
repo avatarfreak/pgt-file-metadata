@@ -1,0 +1,7 @@
+#custom-file-label::after {
+  color: #e9ece7;
+  background-color: #e78412;
+  border: 1px solid #e78412;
+  box-shadow: 0 2px 4px #e78412;
+  border-radius: 0;
+}
